@@ -1,2 +1,2 @@
 Download Packges in 
-Packs.txt
+Packs.txt ||| يلزم تحميل بايثون
