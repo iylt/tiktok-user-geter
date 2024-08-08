@@ -11,8 +11,8 @@ pip install requests
 pip install --upgrade requests
 pip install --upgrade urllib3
 حذف البكجات : 
-pip unistall urllib3
-pip unistall requests
+pip uninstall urllib3
+pip uninstall requests
  
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | insta iylt | 
